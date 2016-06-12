@@ -1,0 +1,12 @@
+{
+    "name": "Libre Colaboración",
+    "manifest_version": 2,
+    "version": "1.0",
+    "options_page": "lc.html",
+    "description": "extencion para dar a concer lc",
+    "browser_action": {
+        "default_title": "Libre Colaboración",
+        "default_icon": "img/icon.png",
+        "default_popup":"lc.html"
+    }
+} 
